@@ -1,5 +1,4 @@
 
-
 /* Filters style */
 .filters {
     background-color: #ffffff;
@@ -27,4 +26,5 @@
 /*change opacity to 90% when the mouse is on the button*/
 .filters button:hover{
     background-color: rgba(255, 90, 95, .9);
+    opacity: 90%;
 }
